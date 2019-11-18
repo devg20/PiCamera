@@ -14,7 +14,7 @@
 
 ->If you are unable to play the video on the RaspberryPi when using SSH:
 
-       Play the video in a browser. The video will probably not play in chromium, so install epiphany browser by typing the
-       following command on LX Terminal.
+       Play the video in a browser. The video will probably not play in chromium, so install epiphany browser
+       by typing the following command on LX Terminal.
        $ sudo apt-get install epiphany-browser
 
